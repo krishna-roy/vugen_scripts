@@ -1,0 +1,4 @@
+LrSaveSearchString()
+{
+	return 0;
+}
