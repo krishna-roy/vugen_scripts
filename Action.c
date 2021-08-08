@@ -7,7 +7,7 @@ Action()
 	lr_think_time(2);
 	
 	while (f==NULL){
-	f= fopen("C:\\Users\\krish\\Documents\\VuGen\\Scripts\\fm.txt","a");
+	f= fopen("C:\\Users\\krish\\Documents\\VuGen\\Scripts\\Nw.txt","a");
 
 		
 	}
@@ -21,7 +21,7 @@ Action()
 	
 	fclose(f);
 	
-	lr_save_searched_string(;
+//	lr_save_searched_string();
 	
 	return 0;
 }

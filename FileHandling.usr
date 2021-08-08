@@ -61,7 +61,7 @@ Action=1
 Read=1
 RandomAlphaNumer=1
 UniqueNumber=1
-LrSaveSearchString=0
+LrSaveSearchString=1
 vuser_end=1
 [Interpreters]
 vuser_init=cci

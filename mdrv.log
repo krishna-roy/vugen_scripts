@@ -1,4 +1,4 @@
-Virtual User Script started at: 5/16/2021 4:37:47 PM
+Virtual User Script started at: 8/8/2021 2:36:12 PM
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -8,9 +8,8 @@ Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
 Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
-Starting action UniqueNumber.
-20210516163747549
-Ending action UniqueNumber.
+Starting action Action.
+Ending action Action.
 Ending iteration 1.
 Ending Vuser...
 Starting action vuser_end.
