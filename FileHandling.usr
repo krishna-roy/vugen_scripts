@@ -72,9 +72,11 @@ UniqueNumber=cci
 LrSaveSearchString=cci
 vuser_end=cci
 [TransactionsOrder]
-Order=
+Order="Write"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
+[Transactions]
+Write=
